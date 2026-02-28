@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "rbmkreactor:block/control_console" }
+  }
+}
