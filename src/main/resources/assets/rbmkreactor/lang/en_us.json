@@ -1,8 +1,0 @@
-{
-  "itemGroup.rbmkreactor": "RBMK Reactor",
-  "block.rbmkreactor.reactor_core": "RBMK Reactor Core",
-  "block.rbmkreactor.control_console": "RBMK Control Console",
-  "block.rbmkreactor.graphite_casing": "Graphite Casing",
-  "item.rbmkreactor.geiger_counter": "Geiger Counter",
-  "effect.rbmkreactor.radiation_sickness": "Radiation Sickness"
-}
